@@ -58,6 +58,15 @@
   <exec_depend>roscpp</exec_depend>
   <exec_depend>rospy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
+  <depend>eigen</depend>
+  <depend>quadruped_model_kp</depend>
+  <depend>qp_solver</depend>
+  <depend>curves</depend>
+  <depend>grid_map_core</depend>
+  <depend>robot_utils</depend>
+  <depend>std_utils</depend>
+  <depend>message_logger</depend>
+
 
 
   <!-- The export tag contains other, unspecified, tags -->
